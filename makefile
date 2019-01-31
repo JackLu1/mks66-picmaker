@@ -1,0 +1,2 @@
+all:
+	python oof.py
