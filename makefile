@@ -1,2 +1,3 @@
 all:
-	python oof.py
+	python code.py
+	convert info.ppm img.png
